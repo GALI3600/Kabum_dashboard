@@ -19,6 +19,8 @@ Este é um sistema web desenvolvido para análise de preços dos produtos de har
 ## Funcionalidades
 
 - **Dashboard interativo**: A interface do sistema exibe gráficos com os preços mais baixos e a linha do tempo dos preços dos produtos.
+  ![image](https://github.com/user-attachments/assets/6487c25d-4d54-4f21-a5cb-5b3042b87dd0)
+
 - **Web Scraping**: Utilização do Selenium para capturar os dados de preços de produtos diretamente do site Kabum.
 - **Armazenamento e Análise de Dados**: Os dados de preços extraídos são armazenados em um banco de dados Supabase. Um script Python, utilizando a biblioteca Pandas, realiza os filtros e análises para passar as informações filtradas para o frontend via FastAPI.
 - **Visualização de Gráficos**: Os gráficos exibem a evolução dos preços dos produtos ao longo do tempo e comparam os preços mais baixos encontrados.
@@ -39,3 +41,5 @@ Este é um sistema web desenvolvido para análise de preços dos produtos de har
 ```bash
 git clone https://github.com/usuario/projeto-de-analise-de-precos.git
 cd projeto-de-analise-de-precos
+
+
