@@ -39,7 +39,7 @@ Este é um sistema web desenvolvido para análise de preços dos produtos de har
 #### 1. Clone o Repositório
 
 ```bash
-git clone https://github.com/usuario/projeto-de-analise-de-precos.git](https://github.com/GALI3600/Kabum_dashboard.git
+git clone https://github.com/GALI3600/Kabum_dashboard.git
 cd Kabum_dashboard
 
 
